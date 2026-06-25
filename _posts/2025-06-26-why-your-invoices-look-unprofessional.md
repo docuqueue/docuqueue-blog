@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Why Your Invoices Look Unprofessional (And How to Fix It in 10 Seconds)"
-date: 2026-06-26
+date: 2025-06-26
 classes: wide
 categories: ["Productivity", "Small Business"]
 tags: ["invoicing", "documents", "design", "templates"]
