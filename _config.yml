@@ -1,19 +1,12 @@
-# Site settings
 title: "DocuQueue Blog"
 description: "Professional PDF generation — templates, APIs, and the art of looking legitimate."
 url: ""
 baseurl: ""
 author: "DocuQueue"
 
-# Remote theme (Minimal Mistakes)
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Theme settings
 skin: "default"
-header:
-  actions:
-    - label: "Try DocuQueue"
-      url: "https://docuqueue.com"
 
 defaults:
   - scope:
@@ -34,30 +27,15 @@ defaults:
     values:
       layout: "single"
 
-# Permalinks
 permalink: /blog/:title/
 
-# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
 
-# Collections
-collections:
-  posts:
-    output: true
-
-# Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
-
-# Social links (update with your handles)
-social:
-  - icon: github
-    link: "https://github.com/dvcoolarun"
-  - icon: twitter
-    link: "https://twitter.com/docuqueue"
