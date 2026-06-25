@@ -19,8 +19,6 @@ defaults:
       related: true
       toc: true
       read_time: true
-      categories: true
-      tags: true
 
 permalink: /blog/:title/
 
