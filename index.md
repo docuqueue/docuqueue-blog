@@ -9,7 +9,11 @@ DocuQueue converts web pages and HTML into beautifully formatted PDFs via a REST
 
 **[Try it free →](https://docuqueue.com/register)**
 
+<br>
+
 ---
+
+<br>
 
 ## Latest Posts
 
@@ -17,7 +21,11 @@ DocuQueue converts web pages and HTML into beautifully formatted PDFs via a REST
 |------|------|
 | June 26, 2026 | [Why Your Invoices Look Unprofessional (And How to Fix It in 10 Seconds)](/docuqueue-blog/blog/why-your-invoices-look-unprofessional/) |
 
+<br>
+
 ---
+
+<br>
 
 ## What is DocuQueue?
 
@@ -31,6 +39,10 @@ DocuQueue converts web pages and HTML into beautifully formatted PDFs via a REST
 
 **[View all templates →](https://docuqueue.com/templates)** | **[Read the API docs →](https://docuqueue.com/docs)** | **[GitHub →](https://github.com/docuqueue/docuqueue-blog)**
 
+<br>
+
 ---
+
+<br>
 
 *Template has authority. Your documents should too.*

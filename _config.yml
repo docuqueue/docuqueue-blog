@@ -1,3 +1,8 @@
 title: "DocuQueue Blog"
 description: "Professional PDF generation — templates, APIs, and the art of looking legitimate."
+baseurl: "/docuqueue-blog"
 theme: jekyll-theme-architect
+
+permalink: /blog/:title/
+
+permalink: /blog/:title/

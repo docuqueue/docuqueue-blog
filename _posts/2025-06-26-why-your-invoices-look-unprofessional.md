@@ -1,11 +1,9 @@
 ---
-layout: single
+layout: default
 title: "Why Your Invoices Look Unprofessional (And How to Fix It in 10 Seconds)"
 date: 2025-06-26
-classes: wide
 categories: ["Productivity", "Small Business"]
 tags: ["invoicing", "documents", "design", "templates"]
-excerpt: "The content on your invoice is fine. The problem is what it looks like."
 ---
 
 You open an invoice from a vendor or freelancer. Before you read a single line item, before you check the amount or the due date, something is already wrong.
